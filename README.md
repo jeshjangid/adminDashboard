@@ -1,1 +1,1 @@
-<a href="jesh-admin-dashboard.netlify.app">Preview</a>
+<a href="https://jesh-admin-dashboard.netlify.app/">Preview</a>
